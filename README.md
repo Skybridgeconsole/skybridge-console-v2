@@ -1,1 +1,1 @@
-# skybridge-console-v2
+# Skybridge Console UI - Clean layout build
